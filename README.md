@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Vinicius Bovo
 
-🚀 **Desenvolvedor Full Stack em Formação | Especialista em UI & UX**
+🚀 **Desenvolvedor Front-end & Mobile | Especialista em React, Flutter & UI**
 
 🇧🇷 Brasil
 
@@ -15,8 +15,8 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/viniciuslbovo">
-    <img src="https://img.shields.io/badge/GitHub-VINICIUSLBOVO-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/ViniciusBovo">
+    <img src="https://img.shields.io/badge/GitHub-VINICIUSBOVO-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/viniciusl.bovo">
     <img src="https://img.shields.io/badge/Instagram-@VINICIUSL.BOVO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -76,5 +76,4 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
 
 ---
 
- 
 🤝 Sempre aberto a colaborações, discussões sobre front-end e ideias legais!
