@@ -1,6 +1,6 @@
-# Olá 👋, eu sou o Vinicius Bovo
+# Olá 👋👋, eu sou o Vinicius Liberatti Bovo
 
-🚀 **Desenvolvedor Full Stack em Formação**
+🚀🔥 **Desenvolvedor Full Stack em Formação**
 
 🇧🇷 Brasil
 
