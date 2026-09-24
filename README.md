@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Vinicius Bovo
 
-🚀 **Desenvolvedor Front-end & Mobile | Especialista em React, Flutter & UI**
+🚀 **Desenvolvedor Full Stack em Formação**
 
 🇧🇷 Brasil
 
