@@ -1,14 +1,14 @@
 # Olá 👋, eu sou o Vinicius Bovo
 
-🚀 **Desenvolvedor Front-end & Mobile | Especialista em React, Flutter & UI**
+🚀 **Desenvolvedor Full Stack em Formação | Especialista em UI & UX**
 
 🇧🇷 Brasil
 
 Eu crio **aplicações web modernas**, **interfaces de usuário intuitivas** e **aplicativos multiplataforma de alta performance**.
 
-Sou profundamente focado em **React, Flutter, arquitetura de componentes, estilização avançada e design limpo**.
+Estou profundamente focado em **React, Flutter, arquitetura de componentes, estilização avançada e design limpo**.
 
-Também adoro explorar interfaces criativas, micro-interações e ferramentas de design modernas.
+Também gosto de explorar interfaces criativas, micro-interações e ferramentas de design modernas.
 
 ---
 
