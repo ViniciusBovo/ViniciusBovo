@@ -1,4 +1,4 @@
-# Olá 👋👋, eu sou o Vinicius Liberatti Bovo
+# Olá 👋, me chamo Vinicius Liberatti Bovo
 
 🚀🔥 **Desenvolvedor Full Stack em Formação**
 
