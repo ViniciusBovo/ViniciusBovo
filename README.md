@@ -70,4 +70,4 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
 
 ---
 
-🤝 Sempre aberto a colaborações, discussões sobre front-end e ideias legais!
+🤝 Sempre aberto a colaborações.
