@@ -1,6 +1,6 @@
 # Olá 👋, me chamo Vinicius Liberatti Bovo
 
-🚀🔥 **Desenvolvedor Full Stack em Formação**
+🎓 **Estudante de Desenvolvimento de Software Multiplataforma na Fatec** |🚀🔥 **Desenvolvedor Full Stack em Formação**
 
 🇧🇷 Brasil
 
