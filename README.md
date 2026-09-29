@@ -4,6 +4,7 @@
 
 🇧🇷 Brasil
 
+## 🧠 Sobre Mim
 Eu crio **aplicações web modernas**, **interfaces de usuário intuitivas** e **aplicativos multiplataforma de alta performance**.
 
 Estou profundamente focado em **React, Flutter, arquitetura de componentes, estilização avançada e design limpo**.
@@ -28,7 +29,7 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
 
 ---
 
-## 🧠 O que eu faço
+## 💻 O que eu faço
 
 - 🏗️ Desenvolvimento Front-end moderno com React & Vite
 - 📱 Desenvolvimento Mobile e Web multiplataforma com Flutter
