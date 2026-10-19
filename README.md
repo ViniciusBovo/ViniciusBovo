@@ -66,7 +66,9 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBovo&theme=tokyonight" />
 </p>
 
-<h3 align="center">Atividade de Desenvolvimento.</h3>
+<h3 align="center" style="font-weight: 600; color: #c9d1d9;">
+  💻 Histórico de Contribuições & Evolução
+</h3>
 
 <p align="center">
   <picture>
