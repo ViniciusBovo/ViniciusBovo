@@ -61,19 +61,12 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
 ![Antigravity](https://img.shields.io/badge/Antigravity-FF5722?style=for-the-badge&logo=google&logoColor=white)
 
 ---
-
-## 🚀 Filosofia
-
-> _"Código não serve apenas para fazer as coisas funcionarem._  
-> _Trata-se de construir experiências intuitivas, bonitas e fluidas para o usuário."_
-
----
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBovo&theme=tokyonight" />
 </p>
 
-<h3 align="center">Minha Cobrinha de Contribuições</h3>
+<h3 align="center">Atividade de Desenvolvimento.</h3>
 
 <p align="center">
   <picture>
@@ -82,5 +75,12 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ViniciusBovo/ViniciusBovo/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
+
+## 🚀 Filosofia
+
+> _"Código não serve apenas para fazer as coisas funcionarem._  
+> _Trata-se de construir experiências intuitivas, bonitas e fluidas para o usuário."_
+
+---
 
 🤝 Sempre aberto a colaborações.
