@@ -2,8 +2,6 @@
 
 🎓 **Estudante de Desenvolvimento de Software Multiplataforma** | 🚀🔥 **Desenvolvedor Full Stack em Formação**
 
-🇧🇷 Brasil
-
 ## 🧠 Sobre Mim
 Eu crio **aplicações web modernas**, **interfaces de usuário intuitivas** e **aplicativos multiplataforma de alta performance**.
 
