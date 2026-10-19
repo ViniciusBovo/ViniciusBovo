@@ -69,6 +69,10 @@ Também gosto de explorar interfaces criativas, micro-interações e ferramentas
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusBovo&theme=tokyonight" />
+</p>
+
 <h3 align="center">Minha Cobrinha de Contribuições</h3>
 
 <p align="center">
